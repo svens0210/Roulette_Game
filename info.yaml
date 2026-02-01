@@ -1,10 +1,10 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
   wokwi_id:     454491386271657985       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        "6 Bit Roulette Game"      # Project title
+  title:        "6 Bit Roulette"      # Project title
   author:       "Sven Sutter"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "Roulette of a light and stop it at the right position (Segment A) with a button"      # One line description of what your project does
+  description:  "Roulette of a light with 6 bit"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     10       # Clock frequency in Hz (or 0 if not applicable)
 
@@ -16,7 +16,7 @@ project:
 # This section is for the datasheet/website. Use descriptive names (e.g., RX, TX, MOSI, SCL, SEG_A, etc.).
 pinout:
   # Inputs
-  ui[0]: "Roll Button"
+  ui[0]: ""
   ui[1]: ""
   ui[2]: ""
   ui[3]: ""
