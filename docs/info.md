@@ -8,12 +8,15 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
-Explain how your project works
+The design uses a chain of 6 Flip-Flops.
+- **Reset:** Loads the "ball" (sets the first Flip-Flop to 1, all others to 0).
+- **Play:** The light moves to the next segment on every clock cycle.
 
 ## How to test
-
-Explain how to use your project
+1. **Configuration:** Set the Clock frequency to **10 Hz**. 
+2. **Start:** Press the **Reset** button briefly to load the ball. You should see Segment A (top) light up.
+3. **Spin:** Press and hold the **Input Button 0**. The light will start spinning around the display.
+4. **Win:** Release the button to stop. Try to stop exactly at **Segment A** (Top)!
 
 ## External hardware
 
