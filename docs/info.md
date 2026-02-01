@@ -14,8 +14,8 @@ The design uses a chain of 6 Flip-Flops.
 
 ## How to test
 1. **Configuration:** Set the Clock frequency to **10 Hz**. 
-2. **Start:** Press the **Reset** button briefly to load the ball. You should see Segment A (top) light up.
-3. **Spin:** Press and hold the **Input Button 0**. The light will start spinning around the display.
+2. **Start:** To start: Hold the Play Button **Input Button 0**, then tap Reset. You should see Segment A (top) light up.
+3. **Spin:** The light will start spinning around the display.
 4. **Win:** Release the button to stop. Try to stop exactly at **Segment A** (Top)!
 
 ## External hardware
